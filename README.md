@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @D3adEr1c
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python & C
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+
+Chinese / English
+
+Rust 绝赞学习中
 
 <!---
 D3adEr1c/D3adEr1c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
